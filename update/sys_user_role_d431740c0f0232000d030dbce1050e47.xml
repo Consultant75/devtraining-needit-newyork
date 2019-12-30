@@ -22,5 +22,6 @@
         <sys_update_name>sys_user_role_d431740c0f0232000d030dbce1050e47</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-04-05 19:43:12</sys_updated_on>
+        <u_functional_role>false</u_functional_role>
     </sys_user_role>
 </record_update>
